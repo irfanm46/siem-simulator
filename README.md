@@ -1,6 +1,7 @@
 # SIEM Simulator - SOC Analyst Training Platform
 
 Interactive browser-based SIEM simulator with 100 progressive challenges across 5 difficulty levels.
+https://irfanm46.github.io/siem-simulator/
 
 [![LIVE TOOL](https://img.shields.io/badge/GitHub%20Pages-LIVE%20TOOL-grey?style=for-the-badge&labelColor=1e293b)](https://irfanm46.github.io/siem-simulator/siem-simulator.html)
 
