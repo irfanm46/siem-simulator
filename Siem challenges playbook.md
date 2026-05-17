@@ -3,7 +3,7 @@
 **SOC Analyst Training Guide | 100 Challenges with Solutions**
 
 ---
-
+ 
 ## How to Use This Playbook
 
 This document contains **every challenge, solution, and explanation** from the SIEM Simulator. Use it to:
